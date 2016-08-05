@@ -1,1 +1,1 @@
-Personal website project - http://gregallen.io
+Personal website - http://gregallen.io
