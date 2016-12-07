@@ -1,2 +1,1 @@
-# gtallen1187.github.io
-My page
+Personal website - http://gregallen.io
