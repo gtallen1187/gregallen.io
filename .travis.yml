@@ -1,0 +1,38 @@
+dist: trusty
+
+sudo: required
+language: node_js
+node_js:
+  - '9.5.0'
+before_install:
+  - stty cols 80
+install:
+  - npm install
+  - npm run theme
+
+#before_script:
+#  - make codeclimate-before > /dev/null 2>&1
+
+script:
+  - export BRANCH=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_BRANCH; else echo $TRAVIS_PULL_REQUEST_BRANCH; fi)
+  - echo "TRAVIS_BRANCH=$TRAVIS_BRANCH, PR=$PR, BRANCH=$BRANCH"
+  - node --version
+  - npm --version
+  - npm run build
+  - npm run test
+
+#after_success:
+#  - make codeclimate-after
+#  - make publish-dev-branch-bucket
+#  - make publish-s3
+
+branches:
+  except:
+  - legacy
+  - docs
+
+# safelist
+#branches:
+#  only:
+#  - master
+#  - stable
