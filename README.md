@@ -1,1 +1,3 @@
-Personal website - http://gregallen.io
+Repository for a list of products & services I recommend.
+
+**http://gregallen.io**
