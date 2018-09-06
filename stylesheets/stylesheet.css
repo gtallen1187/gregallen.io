@@ -58,7 +58,17 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
-  background-image: url("../img/colorful3.jpg"); }
+  background-image: url("../img/colorful3.jpg");
+}
+.page-header2 {
+  color: #FFFFFF;
+  text-align: center;
+  background: url(../img/colorful3.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
