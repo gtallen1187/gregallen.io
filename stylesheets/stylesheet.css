@@ -58,7 +58,7 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
-  background-image: url("../img/colorful4.jpg");
+  background-image: url("../img/colorful3.jpg");
 }
 .page-header2 {
   color: #FFFFFF;
@@ -75,7 +75,12 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 5rem 6rem;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    background-image: url("../img/colorful4.jpg");
+  }
+}
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
