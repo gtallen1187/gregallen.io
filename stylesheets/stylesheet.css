@@ -65,7 +65,7 @@ a {
 .page-header2 {
   color: #FFFFFF;
   text-align: center;
-  background: url(../img/colorful3.jpg) no-repeat center center fixed;
+  background: url(../img/colorful3@2x.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
