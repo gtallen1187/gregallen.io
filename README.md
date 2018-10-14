@@ -1,3 +1,3 @@
-Repository for a list of products & services I recommend.
+# https://gregallen.io
 
-**https://gregallen.io**
+A continuously updated list of products & services I recommend
