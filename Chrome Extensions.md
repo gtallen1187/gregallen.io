@@ -1,6 +1,6 @@
 # Chrome Extensions
 
-Below is a list of Chrome extensions that I've found helpful, useful, or fun.  There's a section for [Chrome Extensions by Google](#by-google).
+Below is a list of Chrome extensions that I've found helpful, useful, or fun.  There's a section for **Chrome Extensions by Google**.
 
 ## General Chrome Extensions
 
@@ -14,11 +14,13 @@ Below is a list of Chrome extensions that I've found helpful, useful, or fun.  T
 * [**Project Naptha**](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf?utm_source=chrome-app-launcher-info-dialog) - ***must-have***, lets you copy and paste text from within images.
 * [**Omnibox Timer**](https://chrome.google.com/webstore/detail/omnibox-timer/iooaeaogjngpihndkcednkblomlkaaif?utm_source=chrome-app-launcher-info-dialog) - incredibly helpful for staying on task.  Easily set a timer through the Chrome search bar (Omnibox) and get an alert when the timer expires.
 * [App Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh?utm_source=chrome-app-launcher-info-dialog) - Removes the need to ever download ms office files, lets you view everything right from chrome.
-* [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog) - If you don't already know, you're hopeless.
+* [**Momentum**](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog) - If you don't already know, you're hopeless.
 * [RescueTime](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-and/bdakmnplckeopfghnlpocafcepegjeap) - RescueTime for ChromeOS.  Not needed if you've already installed RescueTime for Mac or Windows.
 * [Keybase Chat](https://chrome.google.com/webstore/detail/keybase/ognfafcpbkogffpmmdglhbjboeojlefj) - Makes it easy to start a Keybase chat through social profiles.
 * [Speedtest by Ookla](https://chrome.google.com/webstore/detail/speedtest-by-ookla/pgjjikdiikihdfpoppgaidccahalehjh) - Quickly check the speed of your own connection or a particular website.
   * These are the same guys who make the speedtest that is the first Google search result when you search "speed test"
+* [Netflix Party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa) - Watch Netflix remotely with friends
+* [Better Browse for Netflix](https://chrome.google.com/webstore/detail/better-browse-for-netflix/olciafpppkdhlcjfmaibelnopafmhmdd/related?hl=en) - Adds a "Browse All" menu item allowing you to easily browse the hidden Netflix sub-genres
 * [Todoist](https://chrome.google.com/webstore/detail/todoist-to-do-list-and-ta/jldhpllghnbhlbpcmnajkpdmadaolakh) - If you use this To-do list app, the extension is helpful for quickly adding things.
 * [Zapier Push](https://chrome.google.com/webstore/detail/zapier/ngghlnfmdgnpegcmbpgehkbhkhkbkjpj) - If you use Zapier, this extension lets you trigger workflows with the push of a button.
 * [FreezeTab](https://chrome.google.com/webstore/detail/freezetab/ecpipjjckcegdmapdifgigmempnikcjg) - Bookmarks on steroids.  The best way to explain this extension is by installing it, checking out the tutorials, and trying it out.
