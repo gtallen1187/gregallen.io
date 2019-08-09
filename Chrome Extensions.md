@@ -9,8 +9,8 @@ Below is a list of Chrome extensions that I've found helpful, useful, or fun.  T
 * [App Launcher Customizer](https://chrome.google.com/webstore/detail/app-launcher-customizer-f/ponjkmladgjfjgllmhnkhgbgocdigcjm) - Allows you to customize the content that appears in the Google app launcher wherever you see it.
 * [Library Sniffer](https://chrome.google.com/webstore/detail/library-sniffer-for-googl/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) - Tells you the technologies that power whatever website you're visiting.
 * [Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Easy-to-use screenshot extension.  Let's you capture portiosn of a page, the visible page, or the entire page.
-* [**Honey**](https://www.joinhoney.com/ref/rhpscu) - Automatically applies discount codes to website checkout pages.
-  * Rarely works on Amazon, but has worked for me in tons of independent store.  Saved me $70 on a Vimeo subscription.
+* [**Honey**](https://www.joinhoney.com/ref/rhpscu) - Automatically applies discount codes to checkout pages and ensures you have the lowest available price.
+  * [Honey](https://www.joinhoney.com/ref/rhpscu) saved me $70 on a Vimeo subscription with a single discount code.
 * [**Project Naptha**](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf?utm_source=chrome-app-launcher-info-dialog) - ***must-have***, lets you copy and paste text from within images.
 * [**Omnibox Timer**](https://chrome.google.com/webstore/detail/omnibox-timer/iooaeaogjngpihndkcednkblomlkaaif?utm_source=chrome-app-launcher-info-dialog) - incredibly helpful for staying on task.  Easily set a timer through the Chrome search bar (Omnibox) and get an alert when the timer expires.
 * [App Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh?utm_source=chrome-app-launcher-info-dialog) - Removes the need to ever download ms office files, lets you view everything right from chrome.
