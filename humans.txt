@@ -1,0 +1,17 @@
+/* TEAM */
+	Your Boy:Greg Allen
+	Contact: greg [at] gregallen.net
+	Twitter: @gtallen1187
+	GitHub: @gtallen1187
+	From:Pittsburgh, Pennsylvania, United States
+
+/* THANKS */
+
+	Literally, everyone.  Thank you for everything that you do.
+
+
+/* SITE */
+	Source: https://github.com/gtallen1187/gregallen.io
+	Language: English
+	Doctype:HTML5
+	Editor: Atom (Beta), Sublime Text 2
