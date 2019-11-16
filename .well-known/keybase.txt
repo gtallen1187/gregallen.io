@@ -4,7 +4,7 @@ https://keybase.io/gtallen1187
 
 I hereby claim:
 
-  * I am an admin of http://gregallen.io
+  * I am an admin of https://gregallen.io
   * I am gtallen1187 (https://keybase.io/gtallen1187) on keybase.
   * I have a public key with fingerprint 50D8 0FE8 30DF F6C0 FEEE  B634 A537 9081 E38C 377A
 
@@ -23,7 +23,7 @@ To do so, I am signing this object:
         },
         "service": {
             "hostname": "gregallen.io",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
@@ -66,4 +66,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/gtallen1187
 
 ==================================================================
-
