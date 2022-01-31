@@ -14,4 +14,4 @@
 	Source: https://github.com/gtallen1187/gregallen.io
 	Language: English
 	Doctype:HTML5
-	Editor: Atom (Beta), Sublime Text 2
+	Editor: Atom (Beta), Sublime Text 2, VS Code
